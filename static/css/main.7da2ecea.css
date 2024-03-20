@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{min-height:100vh}.wrap,body{align-items:center;display:flex;flex-direction:column;justify-content:center}.wrap{border:1px solid #000;border-radius:10px;height:500px;width:500px}.row{margin:20px 0}.row button{font-weight:bolder;width:100px}.row button,.row input{border-radius:5px;height:30px;margin:0 25px}.row input{outline:none;text-align:center}.row span{font-size:1rem;margin:0 10px}
+/*# sourceMappingURL=main.7da2ecea.css.map*/
